@@ -2,11 +2,7 @@
 
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=cloudydust%20github&fontSize=90" />
-
-
-
 	<div>
-		<h3>🌱 Tech Stack 🌱</h3>
 		<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 		<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" />
