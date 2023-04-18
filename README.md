@@ -17,7 +17,7 @@
 	<br>
 	<br>
 	<div align=center>
-		<h3> 📫 </h3>
+		<h3>📫 Contact 📫</h3>
 	</div>
 	<br>
 	<div align=center>
@@ -25,11 +25,9 @@
 	</div>
 	<br>
 	<div align=center>
-		
-		![GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudyust&count_private=true&show_icons=true&theme=solarized-light)	
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudydust&layout=compact"><br><br>
-		
-	
+		<img src="https://github-readme-stats.vercel.app/api?username=cloudyust&count_private=true&show_icons=true&theme=solarized-light"><br><br>
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인아이디&layout=compact"><br><br>
+
 	</div>
 
 </div>
