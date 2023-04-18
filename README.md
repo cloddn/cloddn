@@ -1,8 +1,6 @@
 
 
 <div align=center>
-
-	<br>
 	<div align=center>
 	<h3> Tech Stack </h3>
 	</div>
