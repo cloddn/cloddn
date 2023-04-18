@@ -1,12 +1,9 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=cloudydust%20:3&fontSize=90" />
-<!--
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=cloudydust%20github&fontSize=90" />
 
 
 
-
-	<div align="center">
-  <div>🌱</div>
+<div align="center">
 	<img src="https://img.shields.io/badge/Django-#092E20?style=flat&logo=Django&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
@@ -14,7 +11,9 @@
 
 </div>
 
-<img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=Django&logoColor=white"/>
+<!--
+
+
 
 **cloudydust/cloudydust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
