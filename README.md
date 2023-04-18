@@ -2,6 +2,7 @@
 
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=cloudydust%20github&fontSize=90" />
+	<br>
 	<div align=center>
 	<h3>🌱 Tech Stack 🌱</h3>
 	</div>
@@ -12,15 +13,17 @@
 		<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 		<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
 		<img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white"/>
-		
 	</div>
+	<br>
+	<br>
 	<div align=center>
-		<h3>📫</h3>
+		<h3> 📫 </h3>
 	</div>
+	<br>
 	<div align=center>
 		<img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Blog&logoColor=white"/>
 	</div>
-	
+	<br>
 	<div align=center>
 		
 		![GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudyust&count_private=true&show_icons=true&theme=solarized-light)	
