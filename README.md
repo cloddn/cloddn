@@ -1,7 +1,6 @@
 
 
 <div align=center>
-	//리드미 내용들
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=cloudydust%20github&fontSize=90" />
 
 
@@ -27,8 +26,7 @@
 		![GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudyust&count_private=true&show_icons=true&theme=solarized-light)	
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudydust&layout=compact"><br><br>
 		
-		
-
+	
 	</div>
 
 </div>
