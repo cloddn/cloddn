@@ -28,8 +28,6 @@
 		<img src="https://github-readme-stats.vercel.app/api?username=cloudydust&count_private=true&show_icons=true&theme=solarized-light"><br><br>
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudydust&layout=compact"><br><br>
 
-	</div>
-
 
 <!--
 
