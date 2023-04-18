@@ -4,7 +4,7 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=cloudydust%20github&fontSize=90" />
 	<br>
 	<div align=center>
-	<h3>🌱 Tech Stack 🌱</h3>
+	<h3> Tech Stack </h3>
 	</div>
 	<div align=center>
 		<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
@@ -17,9 +17,8 @@
 	<br>
 	<br>
 	<div align=center>
-		<h3>📫 Contact 📫</h3>
+		<h3> Contact </h3>
 	</div>
-	<br>
 	<div align=center>
 		<img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Blog&logoColor=white"/>
 	</div>
