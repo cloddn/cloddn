@@ -1,7 +1,7 @@
 
 
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=cloudydust%20github&fontSize=90" />
+
 	<br>
 	<div align=center>
 	<h3> Tech Stack </h3>
@@ -16,13 +16,6 @@
 		<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
 	</div>
 	<br>
-	<br>
-	<div align=center>
-		<h3> Contact </h3>
-	</div>
-	<div align=center>
-		<img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Blog&logoColor=white"/>
-	</div>
 	<br>
 	<div align=center>
 		<img src="https://github-readme-stats.vercel.app/api?username=cloudydust&count_private=true&show_icons=true&theme=solarized-light"><br><br>
